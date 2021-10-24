@@ -1,0 +1,3 @@
+1. Tidak bisa, dari posisi idle karakter harus melalui walk dahulu baru bisa ke run
+2. Tidak bisa, jika dari posisi jump karakter harus melalui idle dulu baru bisa ke crunch
+3. Tidak sama
